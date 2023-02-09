@@ -2,7 +2,7 @@
 Macro para Consulta de CEP e CNPJ via API utilizando o Visual Basic For Applications (VBA)
 
 ## **Pré-requisitos**
-Api Windows para ajustar dimensionamento, transparência, adição de botões maximizar/minimizar do MSForms, ativação de Referências/Bibliotecas, utilização de Módulos de Classes para efeito place holder.
+Api Windows para ajustar dimensionamento, transparência, adição de botões maximizar/minimizar do MSForms, ativação de Referências/Bibliotecas, utilização de Módulos de Classes para efeito place holder, utilização de APIs web para consulta
 
 ## **Ativação de referências**
 Ativar as seguintes bibliotecas/referências da Guia Ferramentas > Referências:
@@ -10,6 +10,13 @@ Ativar as seguintes bibliotecas/referências da Guia Ferramentas > Referências:
   - *Microsoft HTML Object Library*
   - *Microsoft XML, v6*
   - *Microsoft Scripting RunTime*
+
+## **APIs Web utilizadas**
+
+  - *API para consulta do CEP:*
+  <https://viacep.com.br/>
+  - *API para consulta do CNPJ:*
+  <https://developers.receitaws.com.br/#/operations/queryCNPJFree>
 
 ## **Conversor formato JSON para dicionário lido pelo VBA**
 Foi utilizado a biblioteca VBA-JSON, no módulo JsonConverter, para converter o formato JSON da resposta da requisição para um formato de dicionário que fosse lido pelo VBA.
