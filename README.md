@@ -13,26 +13,23 @@ Ativar as seguintes bibliotecas/referências da Guia Ferramentas > Referências:
 
 ## **APIs Web utilizadas**
 
-  - *API para consulta do CEP:* [VIACEP] (https://viacep.com.br/)
-  - *API para consulta do CNPJ:* [ReceitaWS] (https://developers.receitaws.com.br/#/operations/queryCNPJFree)
+  - *API para consulta do CEP:* [VIACEP](https://viacep.com.br/)
+  - *API para consulta do CNPJ:* [ReceitaWS](https://developers.receitaws.com.br/#/operations/queryCNPJFree)
 
 ## **Conversor formato JSON para dicionário lido pelo VBA**
 Foi utilizado a biblioteca VBA-JSON, no módulo JsonConverter, para converter o formato JSON da resposta da requisição para um formato de dicionário que fosse lido pelo VBA.
 A biblioteca encontra-se no módulo JsonConverter.
-O VBA-JSON foi desenvolvido e disponibilizado por Tim Hall no seguinte repositório:
-<https://github.com/VBA-tools/VBA-JSON>
+A biblioteca foi desenvolvido e disponibilizado por Tim Hall e pode ser encontrado neste repositório [VBA-JSON](https://github.com/VBA-tools/VBA-JSON).
 
 ## **Módulos para efeito placeholder nas textbox**
 Foi utilizado os módulos de classe *clsTextBox* e módulo *mdltextbox* para colocar o efeito de placeholder nos textbox.
-Módulos desenvolvidos por Ricado Camisa e disponível em: 
-<https://github.com/ricardocamisa/clsTextBox>
+Módulos desenvolvidos por Ricado Camisa e disponível em [seu repositório Ricardo Camisa](https://github.com/ricardocamisa/clsTextBox).
 
 ## **Módulos para dimensionar, ajustar e modificar o MSForms**
   - *ModificaForms: adiciona botões maximizar e minimizar, e transparência ao formulário*
   - *RedimensionaForms: ajusta as dimensões do MSForm e todos os componentes, seguindo proporção do ajuste e do tamanho da tela*
 
-Módulos desenvolvidos em conjunto com aula do curso Programando Excel em VBA de Marcelo do Nascimento, disponível em:
-<https://hotmart.com/pt-br/marketplace/produtos/programando-o-excel-com-vba/S70500759S>
+Módulos desenvolvidos em conjunto com aula do curso [Programando Excel em VBA de Marcelo do Nascimento](https://hotmart.com/pt-br/marketplace/produtos/programando-o-excel-com-vba/S70500759S).
 
 ## **Utilização**
 Tanto o consulta CEP como consulta CNPJ utiliza-se o número respectivo para realizar a buscar e retornar as informações especificadas.
