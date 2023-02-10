@@ -13,10 +13,8 @@ Ativar as seguintes bibliotecas/referências da Guia Ferramentas > Referências:
 
 ## **APIs Web utilizadas**
 
-  - *API para consulta do CEP:*
-  <https://viacep.com.br/>
-  - *API para consulta do CNPJ:*
-  <https://developers.receitaws.com.br/#/operations/queryCNPJFree>
+  - *API para consulta do CEP:* [VIACEP] (https://viacep.com.br/)
+  - *API para consulta do CNPJ:* [ReceitaWS] (https://developers.receitaws.com.br/#/operations/queryCNPJFree)
 
 ## **Conversor formato JSON para dicionário lido pelo VBA**
 Foi utilizado a biblioteca VBA-JSON, no módulo JsonConverter, para converter o formato JSON da resposta da requisição para um formato de dicionário que fosse lido pelo VBA.
