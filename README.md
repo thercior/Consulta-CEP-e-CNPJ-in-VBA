@@ -1,3 +1,8 @@
+<div style="display: inline_block"><br>
+  <a href="https://instagram.com/thercior">
+ <img align="center" alt="Thercio-VBA" height="50" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vba_icon_130097.png"> 
+</div>
+
 # **CONSULTA DE CEP E CNPJ VIA API UTILIZANDO VBA**
 Macro para Consulta de CEP e CNPJ via API utilizando o Visual Basic For Applications (VBA)
 
