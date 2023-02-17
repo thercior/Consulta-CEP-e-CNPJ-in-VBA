@@ -26,20 +26,16 @@ Api Windows para ajustar dimensionamento, transparência, adição de botões ma
 
 Ativar as seguintes bibliotecas/referências da Guia Ferramentas > Referências:
 
+</div>
+
   - *Microsoft HTML Object Library*
   - *Microsoft XML, v6*
   - *Microsoft Scripting RunTime*
 
-</div>
-
 ## **APIs Web utilizadas**
-
-<div class = "text-justify"
 
   - *API para consulta do CEP:* [VIACEP](https://viacep.com.br/)
   - *API para consulta do CNPJ:* [ReceitaWS](https://developers.receitaws.com.br/#/operations/queryCNPJFree)
-
-</div>
 
 ## **Conversor formato JSON para dicionário lido pelo VBA**
 
@@ -52,15 +48,20 @@ A biblioteca foi desenvolvido e disponibilizado por Tim Hall e pode ser encontra
 </div>
 
 ## **Módulos para efeito placeholder nas textbox**
-Foi utilizado os módulos de classe *clsTextBox* e módulo *mdltextbox* para colocar o efeito de placeholder nos textbox.
-Módulos desenvolvidos por Ricado Camisa e disponível em [seu repositório Ricardo Camisa](https://github.com/ricardocamisa/clsTextBox).
-
-## **Módulos para dimensionar, ajustar e modificar o MSForms**
 
 <div class = "text-justify"
 
+Foi utilizado os módulos de classe *clsTextBox* e módulo *mdltextbox* para colocar o efeito de placeholder nos textbox.
+Módulos desenvolvidos por Ricado Camisa e disponível em [seu repositório Ricardo Camisa](https://github.com/ricardocamisa/clsTextBox).
+
+</div>
+     
+## **Módulos para dimensionar, ajustar e modificar o MSForms**
+
   - *ModificaForms: adiciona botões maximizar e minimizar, e transparência ao formulário*
   - *RedimensionaForms: ajusta as dimensões do MSForm e todos os componentes, seguindo proporção do ajuste e do tamanho da tela*
+
+<div class = "text-justify"
 
 Módulos desenvolvidos em conjunto com aula do curso [Programando Excel em VBA de Marcelo do Nascimento](https://go.hotmart.com/T74597698D).
 
