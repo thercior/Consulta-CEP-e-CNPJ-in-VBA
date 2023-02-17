@@ -34,7 +34,7 @@ Módulos desenvolvidos por Ricado Camisa e disponível em [seu repositório Rica
   - *ModificaForms: adiciona botões maximizar e minimizar, e transparência ao formulário*
   - *RedimensionaForms: ajusta as dimensões do MSForm e todos os componentes, seguindo proporção do ajuste e do tamanho da tela*
 
-Módulos desenvolvidos em conjunto com aula do curso [Programando Excel em VBA de Marcelo do Nascimento](https://hotmart.com/pt-br/marketplace/produtos/programando-o-excel-com-vba/S70500759S).
+Módulos desenvolvidos em conjunto com aula do curso [Programando Excel em VBA de Marcelo do Nascimento](https://go.hotmart.com/T74597698D).
 
 ## **Utilização**
 Tanto o consulta CEP como consulta CNPJ utiliza-se o número respectivo para realizar a buscar e retornar as informações especificadas.
